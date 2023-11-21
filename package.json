@@ -1,0 +1,19 @@
+{
+  "name": "for...in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/myx777/for...in.git"
+  },
+  "author": "myx777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myx777/for...in/issues"
+  },
+  "homepage": "https://github.com/myx777/for...in#readme"
+}
